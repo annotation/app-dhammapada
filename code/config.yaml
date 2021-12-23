@@ -24,11 +24,11 @@ provenanceSpec:
   org: etcbc
   repo: dhammapada
   version: '0.1'
-  webBase: http://www.buddhanet.net/e-learning/buddhism/dp01.htm
-  webHint: Show English translation on Buddhanet
-  webUrl: '{webBase}/dp=<1>.htm'
+  webBase: https://www.tipitaka.net/tipitaka/dhp
+  webHint: Show this stanza with English translation and comments on tipitaka
+  webUrl: '{webBase}/verseload.php?verse=<2>'
   webUrlZeros:
-    1: 2
+    2: 3
 typeDisplay:
   clause:
     label: '{n}'
