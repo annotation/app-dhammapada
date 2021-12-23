@@ -1,0 +1,25 @@
+data:
+  org: etcbc
+  repo: dhammapada
+  rel: tf
+  version: "0.1"
+  docUrl: https://github.com/«data.org»/«data.repo»/blob/master/docs/transcription.md
+
+corpus:
+  org: etcbc
+  repo: dhammapada
+  text: Dhammapada Latine
+  url: https://github.com/«data.org»/«data.repo»/blob/master/docs/about.md
+  tip: About the Dhammapada corpus
+
+author1:
+  text: Bee Scherer and Yvonne Mataar
+  role: lead researcher and text coder
+  url: "https://research.vu.nl/en/persons/bee-scherer"
+  tip: lead researcher
+
+author2:
+  text: Dirk Roorda
+  role: data modeler
+  url: "https://pure.knaw.nl/portal/en/persons/dirk-roorda"
+  tip: data modeler

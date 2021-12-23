@@ -1,0 +1,38 @@
+apiVersion: 3
+dataDisplay:
+  exampleSectionHtml: <code>Vagga 1:1</code>
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+  textFormats:
+    layout-orig-full: 
+      method: layoutOrig
+    layout-pali-full:
+      method:  layoutPali
+    layout-latin-full:
+      method:  layoutLatin
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription.md'
+  featurePage: transcription
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: Dhammapada-Latine
+  doi: 10.5281/zenodo.1007624
+  org: etcbc
+  repo: dhammapada
+  version: '0.1'
+  webBase: http://www.buddhanet.net/e-learning/buddhism/dp01.htm
+  webHint: Show English translation on Buddhanet
+  webUrl: '{webBase}/dp=<1>.htm'
+  webUrlZeros:
+    1: 2
+typeDisplay:
+  clause:
+    label: '{n}'
+  sentence:
+    label: '{n}'
+  word:
+    features: quote uncertain clarity
