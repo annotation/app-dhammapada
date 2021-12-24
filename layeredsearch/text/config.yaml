@@ -65,7 +65,14 @@ layerSettings:
   stanza:
     afterDefault: "\n"
     description: stanzas (Pali and Latin linked)
+    focus: true
     layers:
+      number:
+        default: ¿
+        description: number of a stanza
+        feature: n
+        pos: null
+        visible: true
       pali:
         default: ""
         description: Pali original

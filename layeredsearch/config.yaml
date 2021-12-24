@@ -2,7 +2,7 @@ data:
   org: etcbc
   repo: dhammapada
   rel: tf
-  version: "0.1"
+  version: "0.2"
   docUrl: https://github.com/«data.org»/«data.repo»/blob/master/docs/transcription.md
 
 corpus:

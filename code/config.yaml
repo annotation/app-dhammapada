@@ -23,7 +23,7 @@ provenanceSpec:
   doi: 10.5281/zenodo.1007624
   org: etcbc
   repo: dhammapada
-  version: '0.1'
+  version: '0.2'
   webBase: https://www.tipitaka.net/tipitaka/dhp
   webHint: Show this stanza with English translation and comments on tipitaka
   webUrl: '{webBase}/verseload.php?verse=<2>'
