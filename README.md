@@ -17,8 +17,6 @@ Get started with the
 
 ![shot](images/shot.png)
 
-![browser](images/browser.png)
-
 There is also a search interface for the BHSA.
 It is online, but it works on your computer, in the browser.
 
