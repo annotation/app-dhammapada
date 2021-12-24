@@ -15,7 +15,7 @@ const configData = {
   }
  },
  "defs": {
-  "lsVersion": "v083@2021-12-24T15:33:04",
+  "lsVersion": "v084@2021-12-24T15:36:15",
   "dataset": "dhammapada",
   "client": "text",
   "org": "annotation",
