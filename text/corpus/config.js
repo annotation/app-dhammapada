@@ -15,7 +15,7 @@ const configData = {
   }
  },
  "defs": {
-  "lsVersion": "v085@2021-12-24T15:36:38",
+  "lsVersion": "v086@2021-12-24T15:38:06",
   "dataset": "dhammapada",
   "client": "text",
   "org": "annotation",
@@ -193,6 +193,7 @@ const configData = {
    "latin": false
   },
   "stanza": {
+   "number": true,
    "pali": true,
    "latin": true
   },
@@ -223,6 +224,13 @@ const configData = {
    }
   },
   "stanza": {
+   "number": {
+    "valueMap": null,
+    "tip": false,
+    "pos": "number",
+    "pattern": "",
+    "description": "number of a stanza"
+   },
    "pali": {
     "valueMap": null,
     "tip": false,
